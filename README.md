@@ -1,4 +1,8 @@
 <a href="https://stream-cent-884.notion.site/FE-25f3e634393d464dbf5afbf81b8c1e27" target="_blank"><img src="https://img.shields.io/badge/Roum's Notion-1877f2?style=flat-square&logo=Roum's Notion&logoColor=white"/></a>
+<br/>
+![roum02's github stats](https://github-readme-stats.vercel.app/api?username=roum02&show_icons=true)
+[![roum02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roum02&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/roum02)
+<br/>
 ![trophy](https://github-profile-trophy.vercel.app/?username=roum02)
 
 <!--
