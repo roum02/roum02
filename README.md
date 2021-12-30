@@ -24,9 +24,9 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=roum02)
 <br/>
 <br/>
-
+<p align="center">
 ![roum02's github stats](https://github-readme-stats.vercel.app/api?username=roum02&show_icons=true)
-![roum02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roum02&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/roum02)
+![roum02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roum02&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/roum02)</p>
 
 
 <!--
