@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://stream-cent-884.notion.site/FE-25f3e634393d464dbf5afbf81b8c1e27" target="_blank"><img src="https://img.shields.io/badge/Roum's Notion-1877f2?style=flat-square&logo=Roum's Notion&logoColor=white"/></a>
 
 <!--
 **roum02/roum02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
