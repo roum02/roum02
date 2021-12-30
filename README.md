@@ -1,4 +1,5 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<p align="center">
 <img src="https://img.shields.io/badge/React-B1BEF8?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
@@ -6,17 +7,17 @@
 <img src="https://img.shields.io/badge/TypeScript-1877f2?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp </p>
 
 
-<h3 align="center"> 🌱 SNS LIST 🌱
+<h3 align="center"> 🌱 SNS LIST 🌱 </h3>
 <p align="center">
 <a href="https://stream-cent-884.notion.site/FE-25f3e634393d464dbf5afbf81b8c1e27" target="_blank"><img src="https://img.shields.io/badge/Roum's Notion-1877f2?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@roum02" target="_blank"><img src="https://img.shields.io/badge/Roum's Velog-B1BEF8?style=flat-square&logo=Velog&logoColor=white"/></a></p>
 
 <br/>
 <br/>
-<h3 align="center"> 🌱 Tech Stack 🌱
+<h3 align="center"> 🌱 Git Stack 🌱</h3>
 <br/>
 ![trophy](https://github-profile-trophy.vercel.app/?username=roum02)
 <br/>
