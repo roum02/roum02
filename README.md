@@ -20,8 +20,8 @@
 <br/>
 <h3 align="center"> 💚 Git Stack 💚</h3>
 <br/>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=roum02)
+<a href="![trophy](https://github-profile-trophy.vercel.app/?username=roum02)" align="center">
+</a>
 
 <br/>
 <br/>
