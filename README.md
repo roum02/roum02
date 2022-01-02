@@ -1,9 +1,6 @@
 <h3>안녕하세요!</h3>
 <hr/>
 
-모르는 것을 인정하는 용기는 새로운 배움에 주저함이 없게 만드는 원동력이라고 생각합니다. 
-지치지 않는 용기로 항상 배움을 그치지 않는 개발자가 되고자 합니다.
-
 [![roum02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roum02&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/roum02)
 
 <h3><b>⚙ Skills ⚙</b></h3>
@@ -39,9 +36,10 @@
 - 웹개발 동아리 EFUB FrontEnd (2021.03 ~ 2021.12)
 - 신촌 연합 창업동아리 CEOS FrontEnd (2021.09 ~ )
 
+
 <h3> 💖 Blog 💖 </h3>
 <hr/>
-<a href="https://velog.io/@roum02" target="_blank"><img src="https://img.shields.io/badge/Roum's Velog-B1BEF8?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://velog.io/@roum02">👉 블로그 바로가기</a>
 
 
 <br/>
