@@ -1,4 +1,4 @@
-<h3>👋 안녕하세요! 주니어 FE 개발자 이로움입니다 </h3>
+<h3>👋 안녕하세요! FE 개발자 이로움입니다 </h3>
 <hr/>
 
 ![roum02's github stats](https://github-readme-stats.vercel.app/api?username=roum02&show_icons=true)
