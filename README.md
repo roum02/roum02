@@ -5,6 +5,13 @@
 
 <br/>
 <br/>
+
+<h3>💻 Projects 💻</h3>
+<hr/>
+<a href="https://stream-cent-884.notion.site/FE-25f3e634393d464dbf5afbf81b8c1e27">👉 여기를 방문해주세요 :)</a>
+<br/>
+<br/>
+
 <h3><b>⚙ Skills ⚙</b></h3>
 <hr/>
 <h4>Frontend</h4>
@@ -28,11 +35,6 @@
 <br/>
 
 
-<h3>💻 Projects 💻</h3>
-<hr/>
-<a href="https://stream-cent-884.notion.site/FE-25f3e634393d464dbf5afbf81b8c1e27">👉 여기를 방문해주세요 :)</a>
-<br/>
-<br/>
 <h3>🏅 Experiences🏅</h3>
 <hr />
 
