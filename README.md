@@ -1,5 +1,8 @@
-<h3>👋 안녕하세요! FE 개발자 이로움입니다 </h3>
-<hr/>
+<!-- <div align="center"> -->
+  
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=안녕하세요!&desc=프론트엔드%20개발자%20이로움입니다🌱&fontAlign=80&fontAlignY=40&descAlign=80&descAlignY=70&color=gradient&animation=fadeIn)
+
+<!-- </div> -->
 
 ![roum02's github stats](https://github-readme-stats.vercel.app/api?username=roum02&show_icons=true)
 
