@@ -1,6 +1,6 @@
 <!-- <div align="center"> -->
   
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=안녕하세요!&desc=프론트엔드%20개발자%20이로움입니다🌱&fontAlign=80&fontAlignY=40&descAlign=80&descAlignY=70&color=gradient&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=안녕하세요!&desc=프론트엔드%20개발자%20이로움입니다🌱&fontAlign=80&fontAlignY=40&descAlign=80&descAlignY=60&color=gradient&animation=fadeIn)
 
 <!-- </div> -->
 
