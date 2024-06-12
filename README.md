@@ -4,9 +4,6 @@
 
 <!-- </div> -->
 
-![roum02's github stats](https://github-readme-stats.vercel.app/api?username=roum02&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roum02)](https://solved.ac/roum02/)
-
 <br/>
 <br/>
 
