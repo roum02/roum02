@@ -1,8 +1,6 @@
-<!-- <div align="center"> -->
-  
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Hello!&desc=FrontEnd-developer&fontAlign=80&fontAlignY=40&descAlign=80&descAlignY=60&color=gradient&animation=fadeIn)
 
-<!-- </div> -->
 
 <br/>
 <br/>
