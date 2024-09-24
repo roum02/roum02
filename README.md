@@ -57,8 +57,6 @@
 <hr/>
 <br/>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=roum02)
-
 <br/>
 <br/>
 
