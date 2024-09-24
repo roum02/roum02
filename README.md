@@ -51,15 +51,5 @@
 <a href="https://velog.io/@roum02">👉 블로그 바로가기</a>
 
 
-<br/>
-<br/>
-<h3> 💚 Git Stack 💚</h3>
-<hr/>
-<br/>
-
-<br/>
-<br/>
-
-[![roum02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roum02&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/roum02)
  
 
