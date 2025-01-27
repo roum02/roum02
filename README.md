@@ -58,6 +58,7 @@ As a developer, I’m all about three things: expertise, clear communication, an
 - CEOS of FrontEnd development (2021.09 ~ 2022.02)
 - JOBKOREA X ALBAMON (2022.02 ~ )
 
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roum02&show_icons=true&layout=compact&theme=graywhite&hide_border=true" align="center"/>
  
 
