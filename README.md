@@ -11,7 +11,7 @@
 
 
 <p>
-Hey there! I'm a frontend developer with over 3 years of experience. One of my goals is to really understand the services I’m working on and make them better.
+Hey there! I'm Roum as a frontend developer with over 3 years of experience. One of my goals is to really understand the services I’m working on and make them better.
 <!-- I’m passionate about improving services, and I’ve contributed to streamlining processes in my previous projects. -->
 Lately, I've been focusing on expanding my skills beyond just frontend development, with the goal of creating services that bring joy and fun to users.
 I love coming up with cool ideas and turning them into something real.
