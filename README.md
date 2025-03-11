@@ -1,6 +1,16 @@
-
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Hello!&desc=FrontEnd-developer&fontAlign=80&fontAlignY=40&descAlign=80&descAlignY=60&color=gradient&animation=fadeIn)
+-->
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=roum02&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/roum02?pet-id=687135550539125106"
+    width="700"
+    height="300"
+  />
+</a>
+  
 
 ### 👋 Nice to connect with me
 <p>
