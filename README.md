@@ -62,7 +62,7 @@ As a developer, I’m all about three things: expertise, clear communication, an
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> &nbsp
 </p>
 <p>
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon&logoColor=white"> &nbsp
 </p>
 
 
