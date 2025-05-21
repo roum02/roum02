@@ -65,16 +65,3 @@ As a developer, I’m all about three things: expertise, clear communication, an
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon&logoColor=white"> &nbsp
 </p>
 
-<!--
-### 🏅 Experiences
-
-- FrontEnd internship in data-marketing-korea (2021.07 ~ 2021.08)
-- web development club named EFUB of FrontEnd development (2021.03 ~ 2021.12)
-- CEOS of FrontEnd development (2021.09 ~ 2022.02)
-- JOBKOREA X ALBAMON (2022.02 ~ )
-
-<br/>
--->
-<!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roum02&show_icons=true&layout=compact&theme=graywhite&hide_border=true" align="center"/>
- -->
